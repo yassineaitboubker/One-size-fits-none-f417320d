@@ -1,0 +1,22 @@
+h1 {
+	color: red;
+	font-size: 100%;
+}
+h2 {
+	color: red;
+	font-size: 80%;
+}
+h3 {
+	color: red;
+	font-size: 80%;
+}
+body {
+	background-color: blue;
+}
+ol {
+	color: red;
+	font-size: 80%;
+}
+img {
+	width: 500px;
+}
